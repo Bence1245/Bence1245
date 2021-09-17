@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Bence1245
-- 🌱 I’m currently learning PHP (https://www.php.net).
+- 🌱 I’m currently learning WEB development.
+- 🛡️ I use HTML and CSS.
+- 📘 Find me on Discord: Benceeeツ#5285
 
 <!---
 Bence1245/Bence1245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
