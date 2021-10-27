@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bence1245
-- 🌱 I'm a WEB developer.
-- 🛡️ I use HTML, CSS and JavaScript.
+- 🌱 I'm a frontend WEB developer.
+- 🛡️ I'm currently learning the backend web.
 - 📘 Find me on Discord: Benceeeツ#5285
 
 <!---
